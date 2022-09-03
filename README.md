@@ -15,6 +15,7 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -23,7 +24,7 @@ TwitchChat-AutoAnnouncements (hereinafter referred to as tcaa) is a <a href="htt
 
 ## Built With
 [![Github Pages][Github-pages]][Github-pages-url]
-[![Github Actions][Github-actions]][Github-pages-url]
+[![Github Actions][Github-actions]][Github-actions-url]
 [![React][Reactjs]][Reactjs-url]
 [![Axios][Axios]][Axios-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +60,7 @@ Kacper Kazai - kacper.kazai@gmail.com
 [license]: https://img.shields.io/github/license/Kacper-Kazai/twitchchat-autoannouncements.svg?style=for-the-badge
 [Github-pages-url]: https://pages.github.com
 [Github-pages]: https://img.shields.io/badge/Github_Pages-427db0?style=for-the-badge&logo=github&logoColor=fff
-[Github-actions-url]: https://
+[Github-actions-url]: https://github.com/features/actions
 [Github-actions]: https://img.shields.io/badge/Github_Actions-2088ff?style=for-the-badge&logo=github&logoColor=fff
 [Reactjs-url]: https://reactjs.org/
 [Reactjs]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
