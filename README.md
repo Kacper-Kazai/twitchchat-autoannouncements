@@ -15,6 +15,7 @@
       </ul>
     </li>
     <li><a href="#license">License</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -49,6 +50,12 @@ Implement tcaa in obs, configure it once and forget about it!
 # License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Roadmap
+
+- [ ] Move the entire project to Webpack, thus resigning from create-react-app
+- [ ] Change the login screen to support choosing between twitch accounts you want to use
+  - [ ] Add saving account settings between browsers (using something like Google Drive for data storage)
 
 # Contact
 Kacper Kazai - kacper.kazai@gmail.com
