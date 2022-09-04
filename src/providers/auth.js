@@ -4,7 +4,7 @@ import PlaceCenter from "../components/place_center";
 import useLocalStorage from "../hooks/use_local_storage";
 
 const AuthContext = React.createContext();
-const clientId = "fnbx8d9tzty11ya7k5en59qgh82kir";
+const clientId = "xpoafz165gri6d5e3brk7cxf1bg9pa";
 const twitchApiUrl = "https://api.twitch.tv/helix/";
 const redirectUri = `https://kacper-kazai.github.io/twitchchat-autoannouncements/`;
 
