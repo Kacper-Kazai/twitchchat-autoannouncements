@@ -63,7 +63,7 @@ Kacper Kazai - kacper.kazai@gmail.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-url]: https://github.com/Kacper-Kazai/twitchchat-autoannouncements/blob/master/LICENSE.txt
+[license-url]: https://github.com/Kacper-Kazai/twitchchat-autoannouncements/blob/master/LICENSE
 [license]: https://img.shields.io/github/license/Kacper-Kazai/twitchchat-autoannouncements.svg?style=for-the-badge
 [Github-pages-url]: https://pages.github.com
 [Github-pages]: https://img.shields.io/badge/Github_Pages-427db0?style=for-the-badge&logo=github&logoColor=fff
